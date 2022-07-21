@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NinaZhang04, a high school student trying out different things
-- 👀 I’m interested in coding apps and websites, I am also interested in AI
+- 👋 Hi, I’m @NinaZhang
+- 👀 I’m interested in coding apps, coding websites, and AI. My Github is not active since I did most of my work locally and did not push. But I will now try to push more often :)
 - 🌱 I’m currently learning C#, C++, and JavaScipt
 - 💞️ I’m looking to collaborate on apps and games
 - 📫 How to reach me: email me at healtoneforever@gmail.com
