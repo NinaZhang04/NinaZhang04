@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NinaZhang
 - 👀 I’m interested in coding apps, coding websites, and AI. 
-- 🌱 I’m currently learning C# and C++
+- 🌱 I’m currently learning JavaScript and C
 - 💞️ I’m looking to collaborate on apps and games
 - 📫 How to reach me: email me at healtoneforever@gmail.com
 
